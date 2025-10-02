@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub
 
-<!--
-**EKomateas/ekomateas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Euthymios Komateas — a software developer, systems architect, and technical consultant with over 30 years of experience in building custom applications, databases, and scalable web solutions.
 
-Here are some ideas to get you started:
+My work spans from military-grade scheduling systems to AI-powered image platforms, with a strong focus on clarity, modularity, and real-world impact. I specialize in Python, Visual Basic, SQL, and Linux server administration, and I’ve built tools for sports federations, luxury brands, startups, and family businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The name of my company, TLSoftware, comes from *TeleoLogical* — the idea that everything has purpose. I apply this principle to every project I undertake: software should not only work, but make sense, serve a goal, and reflect thoughtful design.
+
+Feel free to explore my repositories, including:
+- 🧠 [Balckets](https://github.com/EKomateas/Balckets) – A logic-based puzzle game
+- 🖼️ [Mixup.pictures](https://mixup.pictures) – AI-powered image composition (under construction)
+- 🏀 [SEDY Referee Platform](https://sedy.gr) – Used by the Greek Water Polo Federation
+
+Thanks for stopping by!
