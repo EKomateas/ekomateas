@@ -4,8 +4,6 @@ I'm Efthymios Komateas — a software developer, systems architect, and technica
 
 My work spans from military-grade scheduling systems to AI-powered image platforms, with a strong focus on clarity, modularity, and real-world impact. I specialize in Python, Visual Basic, SQL, and Linux server administration, and I’ve built tools for sports federations, luxury brands, startups, and family businesses.
 
-The name of my company, TLSoftware, comes from *TeleoLogical* — the idea that everything has purpose. I apply this principle to every project I undertake: software should not only work, but make sense, serve a goal, and reflect thoughtful design.
-
 Feel free to explore my repositories, including:
 - 🧠 [Balckets](https://github.com/EKomateas/Balckets) – A logic-based puzzle game
 - 🖼️ [Mixup.pictures](https://mixup.pictures) – AI-powered image composition (under construction)
